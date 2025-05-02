@@ -1,5 +1,3 @@
-# TikTok_dataset_SQL_query
-The file "TikTok_dataset.sql" shows part of the SQL workflow for building the TikTok account attribute dataset.
 # TikTok Account Attribute Dataset for Fake Account Detection
 
 ## Project Overview
