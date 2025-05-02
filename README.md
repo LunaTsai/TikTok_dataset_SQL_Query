@@ -56,5 +56,4 @@ Scope: Non-commercial academic dataset creation for machine learning research.
 
 ## Repository Contents
 
-- `final_dataset.sql`: Full SQL script used to build the TikTok account attribute dataset
-- `README.md`: Project description and documentation
+- `final_dataset.sql`: part of the SQL workflow for building the TikTok account attribute dataset
