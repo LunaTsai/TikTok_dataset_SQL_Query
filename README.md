@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-To support TikTok fake account detection using machine learning, our research team at McGill University developed a benchmarking dataset based on TikTok account data. I applied advanced SQL techniques to extract, join, and transform data across multiple relational tables. This project demonstrates my ability to write complex SQL queries and support data-driven research workflows.
+To support TikTok fake account detection using machine learning, our research team at McGill University developed a benchmarking dataset based on TikTok account data. I applied advanced SQL techniques to extract, join, and transform data across multiple relational tables. This script showcases A PORTION of the SQL queries and demonstrates my ability to write complex SQL to support data-driven research workflows.
 
 ## Sector
 
